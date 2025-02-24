@@ -1,8 +1,5 @@
 # SQL_HUB
 
-# SQL Projects (https://github.com/enerjetabeqa/SQL_HUB.git)
-
-
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
 ## Analyzing Employee Trends
